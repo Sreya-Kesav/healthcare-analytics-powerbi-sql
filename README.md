@@ -59,3 +59,26 @@ This project leveraged AI-assisted workflows for:
 - Insight generation
 
 All final implementation and validation were completed manually.
+
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Healthcare_ER Dashboard](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql/blob/main/Screenshots/Healthcare_ER.png)
+
+### Patient Analytics
+
+![Patient Analytics](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql/blob/main/Screenshots/Patient_analytics.png)
+
+### Doctor Performance
+
+![Doctor Performance](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql/blob/main/Screenshots/Doctor_performance.png)
+
+### Financial overview
+
+![Financial overview](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql/blob/main/Screenshots/Financial_overview.png)
+
+### Insights & Recommendations
+
+![Insights Page](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql/blob/main/Screenshots/Insights.png)
